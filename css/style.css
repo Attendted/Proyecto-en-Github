@@ -1,0 +1,427 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;400&display=swap');
+#container1{
+    background-color: #161616;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 40px;
+    width: auto;
+}
+
+.user{
+    color: #f3f3f3;
+    font-size: 18px;
+    padding-right: 3rem;
+}
+
+.question{
+    color: #f3f3f3;
+    font-size: 18px;
+    padding-right: 2rem;
+}
+
+.logo_ea{
+    padding-right: 1rem;
+}
+
+#container2{
+    height: 60px;
+    color: white;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    line-height: 27px;
+}
+
+.icono3p{
+    padding-left: 1rem;
+}
+
+.logo_electronic{
+    padding-left: 1rem;
+}
+
+.menu_container2{
+    color: #161616;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+    width: 40%;
+    padding-left: 3rem;
+    font-family:'Roboto Slab', serif;
+}
+
+#container3{
+    background-image: url(../img_icons/img_mundial.jpg);
+    background-color: black;
+    height: 540px;
+    width: auto ;
+    display: flex;
+    flex-direction: column;
+}
+
+.fifa23 img{
+    height: 120px;
+    width: auto;
+    align-items: center;
+    padding-left: 7rem;
+    padding-top: 5rem;
+}
+
+.prediccion{
+    font-size: 35px;
+    width: 38%;
+    text-align: center;
+    padding-left: 6rem;
+    font-family:'Roboto Slab', serif;
+    margin-top: -2rem;
+}
+
+.boton_predi{
+    height: 70px;
+    width: 110px;
+    text-decoration:none;
+    font-weight: 600;
+    padding-left: 21rem;
+    color: white;
+}
+
+.boton_predi button{
+    height: 65px;
+    width: 190px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+#container4{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    background-image: url(../img_icons/img_degradado.jpg);
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+
+.descuento{
+    color: white;
+    font-size: 25px;
+    padding-left: 25rem;
+    width: 30%;
+    font-family: 'Roboto Slab', serif;
+    text-align: left;
+}
+
+.eaplay{
+    padding-left: 15%;
+}
+
+.boton_unirse{
+    font-size: 20px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+}
+
+#container5{
+    text-align: center;
+    align-items: center;
+}
+
+.juegos{
+    font-size: 42px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.gamebox1{
+    display: flex;
+    padding-left: 25rem;
+    justify-content: space-between;
+    width: 58%;
+}
+
+#container6{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+
+.gamebox2{
+    display: flex;
+    padding-left: 25rem;
+    justify-content: space-between;
+    width: 58%;
+}
+
+#container7{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+.boton_juegos{
+    text-align: center;
+    align-items: center;
+    font-size: 18px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+
+#container8{
+    text-align: center;
+}
+
+.actualizaciones{
+    font-size: 44px;
+    font-family: 'Roboto Slab', serif;
+}
+
+#container9{
+    display: flex;
+}
+
+.menu_container3{
+    display: flex;
+    color: #161616;
+    align-items: center;
+    font-size: 18px;
+    justify-content: space-between;
+    width: 48%;
+    padding-left: 25rem;
+    font-family:'Roboto Slab', serif;
+}
+
+#container10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family:'Roboto Slab', serif;
+}
+
+#encuadrado{
+    width: 59%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Roboto Slab', serif;
+    background-color: white;
+}
+
+#noticia1{
+    padding: 1rem;
+    width: 30%;
+}
+
+#encabezado{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion{
+    font-size: 19px;
+}
+
+#noticia2{
+    padding: 1rem;
+    width: 30%;
+    padding-top: 4rem;
+}
+
+#encabezado2{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion2{
+    font-size: 19px;
+}
+
+#noticia3{
+    padding: 1rem;
+    width: 30%;
+    padding-right: 6rem;
+    padding-bottom: 4rem;
+}
+
+#encabezado3{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion3{
+    font-size: 19px;
+}
+
+#encuadrado2{
+    width: 58%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family:'Roboto Slab', serif;
+    background-color: white;
+}
+
+#noticia4{
+    padding: 1rem;
+    width: 30%;
+    padding-bottom: 14.6rem;
+    padding-top: 2rem;
+}
+
+#encabezado4{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion4{
+    font-size: 19px;
+}
+
+#noticia5{
+    padding: 1rem;
+    width: 30%;
+    padding-bottom: 6rem;
+}
+
+#encabezado5{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion5{
+    font-size: 19px;
+}
+
+#noticia6{
+    padding: 1rem;
+    width: 30%;
+    padding-bottom: 7rem;
+}
+
+#encabezado6{
+    font-family:'Roboto Slab', serif;
+    color: #ff4747;
+}
+
+#descripcion6{
+    font-size: 19px;
+}
+
+#container11{
+    height: 110px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+}
+
+.boton_leer{
+    text-align: center;
+    align-items: center;
+    font-size: 18px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Roboto Slab', serif;
+    color: black;
+}
+
+#container12{
+   background-image: url(../img_icons/fondo_juegos.jpg);
+   height: 490px;
+   width: auto;
+   flex-direction: column;
+   padding-bottom: 3rem;
+}
+
+.encuadrarboton{
+    width: 34%;
+}
+
+.eaplay2 img{
+    height: 80px;
+    width: auto;
+    padding-top: 10rem;
+    padding-left: 27rem;
+}
+
+.texto_ea{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    padding-left: 27rem;
+    width: 31%;
+    font-size: 19px;
+    line-height: 2rem;
+}
+
+.boton_unete{
+    margin-left: 27rem;
+    font-size: 20px;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    display: flex;
+    width: 15%;
+}
+
+#container13{
+    background-color: rgb(112, 185, 207);
+    height: 100px;
+    padding-top: 1rem;
+}
+
+.texto_padres{
+    font-size: 26px;
+    font-family: 'Roboto Slab', serif;
+    padding-left: 27rem;
+    width: 30%;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
